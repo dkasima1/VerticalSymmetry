@@ -1,6 +1,6 @@
 The experiments run on Python version 2.7.11 because at this time, Psychopy2 only supported python2
 and this was the IDE we needed to run our code in for our research. The instructions of each experiment
-is presented when the experiment is run.
+are presented when the experiment is run.
 
 You can run this experiment easily by opening the folder Vertical_Symmetry and then running any of the python files
 within that are one of the three experiments (SamenessSamePairs, SamenessDiffPairs, SamenessHalfPairs). The data is
